@@ -1,0 +1,318 @@
+[
+  {
+    "restaurant_name": "Kaayal",
+    "url": "https://www.swiggy.com/city/ahmedabad/subway-prahlad-nagar-rest38018",
+    "total_items": 18,
+    "menu": [
+      {
+        "name": "Apam (1 Pc)",
+        "price": "209",
+        "description": "No description available"
+      },
+      {
+        "name": "Kappa",
+        "price": "130",
+        "description": "No description available"
+      },
+      {
+        "name": "Idiyappam (1 Pc)",
+        "price": "209",
+        "description": "No description available"
+      },
+      {
+        "name": "Mutta Varuthathu (Omelette) (1 Pc)",
+        "price": "6049",
+        "description": "No description available"
+      },
+      {
+        "name": "Porichathu Kozhi",
+        "price": "320",
+        "description": "No description available"
+      },
+      {
+        "name": "Egg Bhurji",
+        "price": "65",
+        "description": "No description available"
+      },
+      {
+        "name": "Egg Appam (1 Pc)",
+        "price": "30",
+        "description": "No description available"
+      },
+      {
+        "name": "Mutta Varuthathu (Omlette)",
+        "price": "60",
+        "description": "No description available"
+      },
+      {
+        "name": "Idiappam With Egg Curry",
+        "price": "110",
+        "description": "No description available"
+      },
+      {
+        "name": "Idiappam With Veg Curry",
+        "price": "80",
+        "description": "No description available"
+      },
+      {
+        "name": "Appam With Egg Curry",
+        "price": "130",
+        "description": "No description available"
+      },
+      {
+        "name": "Appam With Veg Curry",
+        "price": "120",
+        "description": "No description available"
+      },
+      {
+        "name": "Chicken Biryani Combo 4",
+        "price": "420",
+        "description": "No description available"
+      },
+      {
+        "name": "Chicken Biryani Combo 3",
+        "price": "420",
+        "description": "No description available"
+      },
+      {
+        "name": "Chicken Biryani Combo 2",
+        "price": "420",
+        "description": "No description available"
+      },
+      {
+        "name": "Chicken Biryani Combo 1",
+        "price": "440",
+        "description": "No description available"
+      },
+      {
+        "name": "Coke (250 Ml)",
+        "price": "40",
+        "description": "No description available"
+      },
+      {
+        "name": "Prawns Biryani + Coke 250 Ml",
+        "price": "390",
+        "description": "No description available"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Subway",
+    "url": "https://www.swiggy.com/city/ahmedabad/la-pinoz-pizza-satellite-rest40831",
+    "total_items": 14,
+    "menu": [
+      {
+        "name": "Chilli Bean Patty Rice Bowl",
+        "price": "289",
+        "description": "No description available"
+      },
+      {
+        "name": "Paneer Tikka Rice Bowl",
+        "price": "329",
+        "description": "No description available"
+      },
+      {
+        "name": "Tandoori Chicken Tikka Rice Bowl",
+        "price": "329",
+        "description": "No description available"
+      },
+      {
+        "name": "Pepper Chicken Rice Bowl",
+        "price": "329",
+        "description": "No description available"
+      },
+      {
+        "name": "Chicken 65 Rice Bowl",
+        "price": "329",
+        "description": "No description available"
+      },
+      {
+        "name": "Aloo Patty Sandwich",
+        "price": "254",
+        "description": "No description available"
+      },
+      {
+        "name": "Paneer Tikka Sandwich",
+        "price": "264",
+        "description": "No description available"
+      },
+      {
+        "name": "Peri Peri Chicken Sandwich",
+        "price": "284",
+        "description": "No description available"
+      },
+      {
+        "name": "Roasted Chicken Strip Sandwich",
+        "price": "284",
+        "description": "No description available"
+      },
+      {
+        "name": "Tandoori Chicken Tikka Sandwich",
+        "price": "284",
+        "description": "No description available"
+      },
+      {
+        "name": "Paneer Tikka Salad",
+        "price": "294",
+        "description": "No description available"
+      },
+      {
+        "name": "Tandoori Chicken Tikka Salad",
+        "price": "324",
+        "description": "No description available"
+      },
+      {
+        "name": "Paneer Tikka Signature Wrap",
+        "price": "304",
+        "description": "No description available"
+      },
+      {
+        "name": "Tandoori Chicken Tikka Signature Wrap",
+        "price": "324",
+        "description": "No description available"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "McDonald's Gourmet Burger Collection",
+    "url": "https://www.swiggy.com/city/ahmedabad/kwality-walls-frozen-dessert-and-ice-cream-shop-satellite-rest395353",
+    "total_items": 27,
+    "menu": [
+      {
+        "name": "McSpicy Premium Chicken Burger",
+        "price": "269",
+        "description": "No description available"
+      },
+      {
+        "name": "McSpicy Premium Veg Burger",
+        "price": "259",
+        "description": "No description available"
+      },
+      {
+        "name": "Big Spicy Chicken Wrap",
+        "price": "249",
+        "description": "No description available"
+      },
+      {
+        "name": "Big Spicy Paneer Wrap",
+        "price": "249",
+        "description": "No description available"
+      },
+      {
+        "name": "McSpicy Chicken Burger",
+        "price": "235",
+        "description": "No description available"
+      },
+      {
+        "name": "McSpicy Paneer Burger",
+        "price": "235",
+        "description": "No description available"
+      },
+      {
+        "name": "Chicken Maharaja Mac Burger",
+        "price": "279",
+        "description": "No description available"
+      },
+      {
+        "name": "McCheese Burger Chicken",
+        "price": "295",
+        "description": "No description available"
+      },
+      {
+        "name": "McCheese Burger Veg",
+        "price": "275",
+        "description": "No description available"
+      },
+      {
+        "name": "Veg Maharaja Mac Burger",
+        "price": "255",
+        "description": "No description available"
+      },
+      {
+        "name": "Corn & Cheese Burger",
+        "price": "175",
+        "description": "No description available"
+      },
+      {
+        "name": "Grilled Chicken & Cheese Burger",
+        "price": "179",
+        "description": "No description available"
+      },
+      {
+        "name": "Signature 7 Veggies Burger.",
+        "price": "N/A",
+        "description": "No description available"
+      },
+      {
+        "name": "Signature Whole Muscle Chicken Burger",
+        "price": "229",
+        "description": "No description available"
+      },
+      {
+        "name": "Fries (Medium)",
+        "price": "125",
+        "description": "No description available"
+      },
+      {
+        "name": "Fries (Large)",
+        "price": "145",
+        "description": "No description available"
+      },
+      {
+        "name": "Piri Piri Spice Mix",
+        "price": "N/A",
+        "description": "No description available"
+      },
+      {
+        "name": "Chicken Nuggets ( 9 Pc )",
+        "price": "N/A",
+        "description": "No description available"
+      },
+      {
+        "name": "Chicken Nuggets ( 6 Pc )",
+        "price": "N/A",
+        "description": "No description available"
+      },
+      {
+        "name": "Fries (Regular)",
+        "price": "95",
+        "description": "No description available"
+      },
+      {
+        "name": "McFlurry Oreo ( M )",
+        "price": "135",
+        "description": "No description available"
+      },
+      {
+        "name": "Mcflurry Oreo ( S )",
+        "price": "109",
+        "description": "No description available"
+      },
+      {
+        "name": "Latte Coffee (S)",
+        "price": "179",
+        "description": "No description available"
+      },
+      {
+        "name": "Americano Coffee (S)",
+        "price": "170",
+        "description": "No description available"
+      },
+      {
+        "name": "Cappuccino Coffee (S)",
+        "price": "170",
+        "description": "No description available"
+      },
+      {
+        "name": "McCheese Burger Veg.",
+        "price": "275",
+        "description": "No description available"
+      },
+      {
+        "name": "Signature 7 Veggies Burger",
+        "price": "N/A",
+        "description": "No description available"
+      }
+    ]
+  }
+]
